@@ -1,7 +1,6 @@
 import React from 'react';
-// import DocumentFragment from 'react';
 
-// BEGIN (write your solution here)
+// BEGIN
 class MyForm extends React.Component {
     constructor(props) {
         super(props);
